@@ -1,0 +1,19 @@
+#leftButton {
+    width: 5%;
+    height: 5%;
+    float: left;
+}
+
+#rightButton {
+    width: 5%;
+    height: 5%;
+    float: right;
+}
+
+#content {
+    text-align: center;
+}
+
+.flickerImage {
+    width: 60%;
+}
